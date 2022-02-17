@@ -2,7 +2,7 @@
 Program for remote control of windows computers via telegram bot. Written in C#  
 
 # Disclaimer
-This program is not intended or permitted for malicious use. This project is Purely for educational purposes. Any damages is solely your responsibility. Do not run or use this RAT if you do not know what you are doing or getting into.
+This program is not intended or permitted for malicious use. This project is Purely for educational purposes. Any damages is solely your responsibility. Do not run or use this RAT if you do not know what you are doing or getting into. No support will be provided for running the built program/injecting 
 
 <p align="center">
   <img src="images/logo.png">
