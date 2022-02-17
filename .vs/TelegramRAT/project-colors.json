@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1bcfe538-14f4-4beb-9a3f-3f9472794902": {
+      "ProjectGuid": "1bcfe538-14f4-4beb-9a3f-3f9472794902",
+      "DisplayName": "TelegramRAT",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
